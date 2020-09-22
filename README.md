@@ -1,5 +1,5 @@
 # Multiplayer-FPS-Game
-### A multiplayer first person shooting game using Unity game engine and Visual Studio.
+### A multiplayer first person shooting game using Unity game engine and Visual Studio
 
 ## Game server
 1. Use Visual Studio to open GameServer.sln in GameServer folder
